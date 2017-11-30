@@ -40,6 +40,6 @@ As with the other features, Delay is in milliseconds.  In this case, it represen
 
 ## Patreon
 
-I have a Patreon goal set up for further development on this.  If you like the idea, want features or improvements, pitch me your ideas.  If you want to see the source, feel free to contribute.
+I have a Patreon goal set up for further development on this.  If you like the idea, want features or improvements, pitch me your ideas and I'll set up a Patreon goal to fund development.  If you want to see the source, feel free to contribute to the existing goal.
 
 https://www.patreon.com/tekmunkey
