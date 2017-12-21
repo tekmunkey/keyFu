@@ -1,3 +1,9 @@
+# Support tekmunkey via Patreon
+
+If you'd like to support my free software developments, my patreon can be found at:
+
+https://www.patreon.com/tekmunkey
+
 # keyFu
 
 KeyFu is currently just a weaksauce little thing that runs on the Windows Desktop.  The project's core came from an accessibility/universal macro utility that I built for MS Windows, but that project is finished and delivered to the client.  I took my core and moved it into this little gadget which has some specialty uses for geeks, nerds, and other bespectacled types who glare intently into flickering rectangles of LED-backlit plastic while mashing weird little boxes of petroleum-distillate-byproduct down on rubbery pads.
